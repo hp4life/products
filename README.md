@@ -2,7 +2,7 @@
 
 ### To Run the app server
 
-##### Make sure you are in - Book_creator directory & type the following command
+##### Make sure you are in - product_creator directory & type the following command
 
 ```sh
 $ npm install
